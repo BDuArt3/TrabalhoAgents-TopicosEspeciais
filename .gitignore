@@ -1,2 +1,15 @@
+# Ambiente
+.env
 .venv/
-.env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
